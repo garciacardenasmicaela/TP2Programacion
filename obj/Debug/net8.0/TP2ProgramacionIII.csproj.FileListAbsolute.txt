@@ -1,0 +1,14 @@
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\TP2ProgramacionIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\TP2ProgramacionIII.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\TP2ProgramacionIII.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\TP2ProgramacionIII.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\bin\Debug\net8.0\TP2ProgramacionIII.exe
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\bin\Debug\net8.0\TP2ProgramacionIII.deps.json
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\bin\Debug\net8.0\TP2ProgramacionIII.runtimeconfig.json
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\bin\Debug\net8.0\TP2ProgramacionIII.dll
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\bin\Debug\net8.0\TP2ProgramacionIII.pdb
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\TP2ProgramacionIII.dll
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\refint\TP2ProgramacionIII.dll
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\TP2ProgramacionIII.pdb
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\TP2ProgramacionIII.genruntimeconfig.cache
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\ref\TP2ProgramacionIII.dll
