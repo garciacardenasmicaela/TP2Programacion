@@ -13,9 +13,9 @@
             case 6:
                 Ejercicio6.Ejecutar();
                 break;
-            //case 3:
-            //    Ejercicio7.Ejecutar();
-            //    break;
+            case 7:
+                Ejercicio7.Ejecutar();
+                break;
             default:
                 Console.WriteLine("Opción inválida");
                 break;

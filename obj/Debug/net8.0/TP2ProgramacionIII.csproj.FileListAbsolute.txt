@@ -12,3 +12,4 @@ C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2Programac
 C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\TP2ProgramacionIII.pdb
 C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\TP2ProgramacionIII.genruntimeconfig.cache
 C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\ref\TP2ProgramacionIII.dll
+C:\Users\Casa\Desktop\Micaela\TP2programacionIII\TP2ProgramacionIII\TP2ProgramacionIII\obj\Debug\net8.0\TP2ProgramacionIII.sourcelink.json
