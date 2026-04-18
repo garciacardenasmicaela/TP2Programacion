@@ -1,1 +1,41 @@
-﻿
+﻿Practico en Clase
+C# necesito almacenar en el sistema 20 nombres que van a ingresar los clientes con sus respectivas edades y solo aquellos que sean mayor de 30 años podrán ingresar al boliche. Quienes tengan menos de 30 mostrar mensaje “a la casa”
+
+Explicación de lo que tenemos que hacer
+
+Primero creamos dos variables de Tipo Array. Una de tipo String que guarda nombres y otra de tipo Int que guardaría edades, cada una de los array contaria con 20 valores a asignar a más adelantes.
+Luego inicializamos el bucle For 
+Primero declaramos el punto de partida de mi bucle: int edad = 0
+Segundo declaramos la condición que tiene que cumplir el bucle: i < 20 siendo 20 el tamaño del array 
+Tercero declaramos la actualización del bucle , ósea como iría aumentando en este caso en uno en uno : i++
+Luego nuestro Bucle For nos pedirá ingresar un nombre y una edad (20 veces porque asi definimos sus condiciones) y luego de pedir esos datos, filtramos por edad los usuario con un condicional if . Si el usuario es menor de edad vera el mensaje “a la casa” y si es mayor de edad vera el mensaje “Puede entrar al boliche”
+
+namespace EjercicioClase;
+
+class Ejercicio1
+{
+    static void Main(string[] args)
+    {
+        string[] nombre = new string[20];
+        int[] edad = new int[20];
+
+        for (int i = 0; i < 3; i++)
+        {
+            Console.WriteLine("Ingrese el nombre de la persona " + (i + 1) + ":");
+            nombre[i] = Console.ReadLine();
+
+            Console.WriteLine("Ingrese la edad de la persona " + (i + 1) + ":");
+            edad[i] = int.Parse(Console.ReadLine());
+
+            if (edad[i] >= 30)
+            {
+                Console.WriteLine(nombre[i] + " es mayor de edad.");
+            }
+            else
+            {
+                Console.WriteLine(nombre[i] + " A la casa");
+            }
+        }
+
+    }
+}
